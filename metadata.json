@@ -1,0 +1,6 @@
+{
+  "name": "WARUNGKU",
+  "description": "Aplikasi Kasir POS, Manajemen Stok Inventori, dan Laporan Keuangan Harian Toko Kelontong & UMKM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
